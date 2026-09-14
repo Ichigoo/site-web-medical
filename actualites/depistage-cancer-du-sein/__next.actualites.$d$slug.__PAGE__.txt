@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],""]
+3:I[5014,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"default"]
+4:I[97367,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"ViewportBoundary"]
+a:I[97367,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"MetadataBoundary"]
+8:X
+19:X
+19:C
+0:{"buildId":"y-zF2J_WBb39A3DQa8toN","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-14 sm:px-6 md:py-18","children":[["$","$L2",null,{"href":"/actualites","className":"inline-flex items-center gap-1.5 text-sm text-ink-soft hover:text-primary","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4","aria-hidden":true}],"Toutes les actualités"]}],["$","p",null,{"className":"mt-8 text-xs tracking-wide text-ink-soft uppercase","children":"1 septembre 2026"}],["$","h1",null,{"className":"scanline mt-2 font-display text-3xl font-semibold text-primary md:text-4xl","children":"Dépistage du cancer du sein : pourquoi ne pas attendre"}],["$","div",null,{"className":"mt-10 space-y-5","children":[["$","p","Le cancer du sein est le cancer le plus fréquent chez la femme, mais aussi l'un de ceux qui se soignent le mieux lorsqu'il est détecté tôt. Une mammographie de dépistage régulière permet de repérer des anomalies avant tout symptôme, à un stade où les traitements sont les plus simples et les plus efficaces.",{"className":"text-[17px] leading-relaxed text-ink-soft","children":"Le cancer du sein est le cancer le plus fréquent chez la femme, mais aussi l'un de ceux qui se soignent le mieux lorsqu'il est détecté tôt. Une mammographie de dépistage régulière permet de repérer des anomalies avant tout symptôme, à un stade où les traitements sont les plus simples et les plus efficaces."}],["$","p","À partir de 40 à 50 ans selon votre profil et l'avis de votre médecin, une mammographie tous les deux ans est recommandée. En cas d'antécédents familiaux, un suivi plus précoce et rapproché peut être proposé.",{"className":"text-[17px] leading-relaxed text-ink-soft","children":"À partir de 40 à 50 ans selon votre profil et l'avis de votre médecin, une mammographie tous les deux ans est recommandée. En cas d'antécédents familiaux, un suivi plus précoce et rapproché peut être proposé."}],["$","p","Dans notre centre, la mammographie numérique basse dose est réalisée par une équipe expérimentée et peut être complétée le jour même par une échographie mammaire. Les résultats vous sont remis et expliqués immédiatement.",{"className":"text-[17px] leading-relaxed text-ink-soft","children":"Dans notre centre, la mammographie numérique basse dose est réalisée par une équipe expérimentée et peut être complétée le jour même par une échographie mammaire. Les résultats vous sont remis et expliqués immédiatement."}]]}],["$","div",null,{"className":"mt-12 border-l-2 border-accent bg-primary-soft/40 p-6","children":[["$","p",null,{"className":"font-semibold text-primary","children":"Une question, un examen à programmer ?"}],["$","p",null,{"className":"mt-2 text-ink-soft","children":["Prenez rendez-vous"," ",["$","a",null,{"href":"https://example.com/rendez-vous","target":"_blank","rel":"noopener","className":"font-semibold text-accent hover:text-accent-deep","children":"en ligne"}]," ","ou appelez le"," ",["$","a",null,{"href":"tel:+212524000000","className":"font-semibold text-accent hover:text-accent-deep","children":"05 24 00 00 00"}],"."]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dépistage du cancer du sein : pourquoi ne pas attendre | Centre de Radiologie Marrakech"}],["$","meta","1",{"name":"description","content":"Détecté tôt, le cancer du sein se guérit dans la grande majorité des cas. La mammographie de dépistage reste le geste le plus efficace."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14"]}]}]}],"$L15"]}],"isPartial":"$@16","staleTime":"$8","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$8","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$8","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[27201,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"IconMark"]
+1f:I[39756,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"default"]
+20:I[37457,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"default"]
+6:null
+b:["$","meta","2",{"property":"og:title","content":"Centre de Radiologie & Imagerie Médicale — Marrakech"}]
+c:["$","meta","3",{"property":"og:description","content":"Centre d'imagerie médicale de pointe : IRM, scanner, échographie, mammographie et radiologie numérisée."}]
+d:["$","meta","4",{"property":"og:site_name","content":"Centre de Radiologie & Imagerie Médicale"}]
+e:["$","meta","5",{"property":"og:locale","content":"fr_FR"}]
+f:["$","meta","6",{"property":"og:type","content":"website"}]
+10:["$","meta","7",{"name":"twitter:card","content":"summary"}]
+11:["$","meta","8",{"name":"twitter:title","content":"Centre de Radiologie & Imagerie Médicale — Marrakech"}]
+12:["$","meta","9",{"name":"twitter:description","content":"Centre d'imagerie médicale de pointe : IRM, scanner, échographie, mammographie et radiologie numérisée."}]
+13:["$","link","10",{"rel":"icon","href":"/site-web-medical/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+14:["$","$L1e","11",{}]
+15:["$","meta",null,{"name":"next-size-adjust","content":""}]
+17:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1d:true
+8:300
+8:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+7:"$undefined"

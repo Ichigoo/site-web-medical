@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:I[22016,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],""]
+3:I[5014,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"default"]
+4:I[97367,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"ViewportBoundary"]
+a:I[97367,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"MetadataBoundary"]
+8:X
+17:X
+17:C
+0:{"buildId":"y-zF2J_WBb39A3DQa8toN","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-14 sm:px-6 md:py-18","children":[["$","$L2",null,{"href":"/actualites","className":"inline-flex items-center gap-1.5 text-sm text-ink-soft hover:text-primary","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4","aria-hidden":true}],"Toutes les actualités"]}],["$","p",null,{"className":"mt-8 text-xs tracking-wide text-ink-soft uppercase","children":"20 juillet 2026"}],["$","h1",null,{"className":"scanline mt-2 font-display text-3xl font-semibold text-primary md:text-4xl","children":"Scanner : des images toujours plus précises, une dose toujours plus faible"}],["$","div",null,{"className":"mt-10 space-y-5","children":[["$","p","Les scanners de dernière génération réalisent des coupes inférieures au millimètre, permettant de détecter des anomalies invisibles sur une radiographie standard, tout en délivrant une dose de rayons considérablement réduite par rapport aux générations précédentes.",{"className":"text-[17px] leading-relaxed text-ink-soft","children":"Les scanners de dernière génération réalisent des coupes inférieures au millimètre, permettant de détecter des anomalies invisibles sur une radiographie standard, tout en délivrant une dose de rayons considérablement réduite par rapport aux générations précédentes."}],["$","p","Nos protocoles sont systématiquement optimisés selon l'indication et la morphologie du patient, avec une attention particulière pour les enfants.",{"className":"text-[17px] leading-relaxed text-ink-soft","children":"Nos protocoles sont systématiquement optimisés selon l'indication et la morphologie du patient, avec une attention particulière pour les enfants."}],["$","p","Les résultats — compte rendu et images — sont remis le jour même, pour que votre médecin puisse décider rapidement de la suite de votre prise en charge.",{"className":"text-[17px] leading-relaxed text-ink-soft","children":"Les résultats — compte rendu et images — sont remis le jour même, pour que votre médecin puisse décider rapidement de la suite de votre prise en charge."}]]}],["$","div",null,{"className":"mt-12 border-l-2 border-accent bg-primary-soft/40 p-6","children":[["$","p",null,{"className":"font-semibold text-primary","children":"Une question, un examen à programmer ?"}],["$","p",null,{"className":"mt-2 text-ink-soft","children":["Prenez rendez-vous"," ",["$","a",null,{"href":"https://example.com/rendez-vous","target":"_blank","rel":"noopener","className":"font-semibold text-accent hover:text-accent-deep","children":"en ligne"}]," ","ou appelez le"," ",["$","a",null,{"href":"tel:+212524000000","className":"font-semibold text-accent hover:text-accent-deep","children":"05 24 00 00 00"}],"."]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Scanner : des images toujours plus précises, une dose toujours plus faible | Centre de Radiologie Marrakech"}],["$","meta","1",{"name":"description","content":"Les scanners multi-détecteurs modernes détectent des anomalies inframillimétriques tout en réduisant fortement l'exposition aux rayons."}],["$","meta","2",{"property":"og:title","content":"Centre de Radiologie & Imagerie Médicale — Marrakech"}],["$","meta","3",{"property":"og:description","content":"Centre d'imagerie médicale de pointe : IRM, scanner, échographie, mammographie et radiologie numérisée."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"]}]}]}],"$L13"]}],"isPartial":"$@14","staleTime":"$8","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$8","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$8","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[27201,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"IconMark"]
+1d:I[39756,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"default"]
+1e:I[37457,["/site-web-medical/_next/static/chunks/3u90zydo3tg_i.js"],"default"]
+6:null
+b:["$","meta","4",{"property":"og:site_name","content":"Centre de Radiologie & Imagerie Médicale"}]
+c:["$","meta","5",{"property":"og:locale","content":"fr_FR"}]
+d:["$","meta","6",{"property":"og:type","content":"website"}]
+e:["$","meta","7",{"name":"twitter:card","content":"summary"}]
+f:["$","meta","8",{"name":"twitter:title","content":"Centre de Radiologie & Imagerie Médicale — Marrakech"}]
+10:["$","meta","9",{"name":"twitter:description","content":"Centre d'imagerie médicale de pointe : IRM, scanner, échographie, mammographie et radiologie numérisée."}]
+11:["$","link","10",{"rel":"icon","href":"/site-web-medical/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+12:["$","$L1c","11",{}]
+13:["$","meta",null,{"name":"next-size-adjust","content":""}]
+15:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+1b:true
+8:300
+8:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+7:"$undefined"
