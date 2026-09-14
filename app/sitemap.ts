@@ -3,6 +3,8 @@ import { exams } from "@/content/exams";
 import { articles } from "@/content/actualites";
 import { siteConfig } from "@/lib/site-config";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = [
     "",
