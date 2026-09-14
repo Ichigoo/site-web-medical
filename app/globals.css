@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens — palette clinique volontairement sobre :
+ * un primaire profond, un fond blanc cassé chaud, un seul accent pour les CTA.
+ */
+:root {
+  --background: #fafaf8;
+  --surface: #ffffff;
+  --ink: #16232a;
+  --ink-soft: #46595f;
+  --primary: #0f4c5c;
+  --primary-deep: #0a3541;
+  --primary-soft: #e3edef;
+  --accent: #e36414;
+  --accent-deep: #c4530d;
+  --line: #dde4e2;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-primary: var(--primary);
+  --color-primary-deep: var(--primary-deep);
+  --color-primary-soft: var(--primary-soft);
+  --color-accent: var(--accent);
+  --color-accent-deep: var(--accent-deep);
+  --color-line: var(--line);
+  --font-sans: var(--font-figtree), system-ui, sans-serif;
+  --font-display: var(--font-fraunces), Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--ink);
+  font-family: var(--font-figtree), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Motif signature : fine ligne de scan sous les titres de section */
+.scanline {
+  position: relative;
+  display: inline-block;
+}
+.scanline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -0.45em;
+  width: 3.5rem;
+  height: 2px;
+  background: var(--accent);
+}
+
+/* Apparition douce au scroll (une seule fois, sobre) */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(14px);
+    transition:
+      opacity 0.55s ease-out,
+      transform 0.55s ease-out;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+}
